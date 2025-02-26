@@ -21,8 +21,8 @@ A automated online interview platform for the recruitment process.
 ## How to run
 
 ```console
-git clone https://github.com/ItsSpirax/Automated-Interview-Platform
-cd Automated-Interview-Platform
+git clone https://github.com/Siddhant-13/InterviewIQ
+cd InterviewIQ
 ```
 
 Set up MongoDB password:
